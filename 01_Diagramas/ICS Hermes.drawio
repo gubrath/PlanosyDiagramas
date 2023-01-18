@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T12:50:31.085Z" agent="5.0 (Windows)" etag="MSt2fg7h41JDRti7aQAO" version="20.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-18T12:51:43.234Z" agent="5.0 (Windows)" etag="aDfQUHQ9AyZEZiwUHNDT" version="20.8.5" type="github" pages="2">
   <diagram name="ICS Hermes" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="1717" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y6D6LiJxNvSc9yeLJu5Y" name="ICS SW">
-    <mxGraphModel dx="2060" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1717" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
